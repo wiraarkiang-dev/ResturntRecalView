@@ -1,0 +1,3 @@
+package com.namaanda.myrestaurantrecyclerview
+
+annotation class ListViewHolder
